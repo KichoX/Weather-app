@@ -1,0 +1,6 @@
+# Ignore the .env file
+.env
+
+# Ignore any files or directories that match these patterns
+node_modules/
+npm-debug.log
